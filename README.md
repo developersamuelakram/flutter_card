@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-- [MaterialApp]
-- [ListTile widget]
-- [Card widget]
-- [Column & Row]
+- MaterialApp
+- [ListTile widget
+- [Card widget
+- Column & Row
 
 ## Developed By
  Developer Samuel Akram &copy;2021
