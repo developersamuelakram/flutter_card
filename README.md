@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - MaterialApp
-- [ListTile widget
-- [Card widget
+- ListTile widget
+- Card widget
 - Column & Row
 
 ## Developed By
